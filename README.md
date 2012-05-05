@@ -9,3 +9,4 @@ I´m programming a little base station app that will control an Parrot AR.Drone 
 
 
 Still pre-alpha^^ (coming soon)
+If I get the framework working  xD
